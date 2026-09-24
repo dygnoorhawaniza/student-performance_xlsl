@@ -12,7 +12,10 @@ The Power BI dashboard provides a visual overview of student performance and all
 
 **Dashboard preview:**
 
-> 📸 *Add a screenshot of your Power BI dashboard here*
+> 📸
+> <img width="1281" height="721" alt="image" src="https://github.com/user-attachments/assets/f6cc3f43-ca2a-47d8-8b4b-8bb3b8cb36aa" />
+<img width="1282" height="715" alt="image" src="https://github.com/user-attachments/assets/07266d47-e0b1-4693-825e-2dfafcb9c6fa" />
+<img width="1287" height="721" alt="image" src="https://github.com/user-attachments/assets/2c26cc6b-8b47-4d10-af75-32ed1bc0be87" />
 
 ---
 
